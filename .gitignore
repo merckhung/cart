@@ -1,0 +1,13 @@
+.cproject
+.project
+*.so
+*.o
+*.swp
+build/
+Debug/
+oatdump
+artdump
+coatgen
+pool
+unittest
+.DS_Store
